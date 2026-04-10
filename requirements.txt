@@ -1,0 +1,9 @@
+flask==3.0.3
+mysql-connector-python==9.1.0
+opencv-python==4.10.0
+scikit-learn==1.5.1          ← ✅ SVM
+scikit-image==0.24.0         ← ✅ GLCM features
+matplotlib==3.9.2
+numpy==2.1.1
+werkzeug==3.0.4
+seaborn==0.13.2
